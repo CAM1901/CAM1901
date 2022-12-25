@@ -3,8 +3,6 @@
       Also interested in CNC machining and 3d printing. 
 - 🌱 I’m currently learning machining and a little Python
 
-- 📫 How to reach me ....
-     Snapchat cam.mac.1901
 
 <!---
 CAM1901/CAM1901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
